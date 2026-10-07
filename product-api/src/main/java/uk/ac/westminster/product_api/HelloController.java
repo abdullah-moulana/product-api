@@ -11,6 +11,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 
           @GetMapping("/status")
           public String status(){
-          return "API-Running";}
+          return "API-Running Successfully";}
 }
 
